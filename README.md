@@ -40,6 +40,7 @@ This experience provided an opportunity to develop and apply skills in:
 * Information visualization
 * Microsoft PowerPoint
 * Microsoft Excel
+* Adobe Photoshop
 * Teamwork and coordination
 * Communication in an academic environment
 * Event and conference support
